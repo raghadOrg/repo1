@@ -1,4 +1,5 @@
 
 /.github/CODEOWNERS @RaghadSalhab
 
-*.py @raghadOrg/team2
+*.py @raghadOrg/team2*
+file.txt @raghadOrg/dependency-control-team
